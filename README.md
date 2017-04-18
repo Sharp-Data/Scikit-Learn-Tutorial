@@ -17,7 +17,7 @@ In this project, you’ll test out several machine learning models from sklearn 
 
 ### Results
 
-Created a Linear Regression model that predicted team wins within an absolute average of 2.673 wins per season.
+Created a Ridge Regression model that predicted team wins with an absolute mean error of 2.673 wins per season
 
 
 ## Part II: Predicting Hall of Fame Careers
