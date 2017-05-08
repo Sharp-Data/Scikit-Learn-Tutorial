@@ -14,7 +14,7 @@ In this project, you’ll test out several machine learning models from sklearn 
 - Linear Regression
 - Ridge Regression
 
-#####Link: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1
+##### Link: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1
 
 ### Results
 
