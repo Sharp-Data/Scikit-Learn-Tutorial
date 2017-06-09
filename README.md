@@ -25,7 +25,7 @@ The Ridge Regression model predicted team wins with an absolute mean error of 2.
 
 In this project, you'll see how to use classification models to predict which players will be voted into the MLB Hall of Fame.  The following scikit-learn models are featured in this project:
 
-- Logistice Regression
+- Logistic Regression
 - Random Forest
 
 ### Results
