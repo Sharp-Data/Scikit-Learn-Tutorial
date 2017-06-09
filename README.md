@@ -18,13 +18,16 @@ In this project, you’ll test out several machine learning models from sklearn 
 
 ### Results
 
-Created a Ridge Regression model that predicted team wins with an absolute mean error of 2.673 wins per season
+The Ridge Regression model predicted team wins with an absolute mean error of 2.673 wins per season
 
 
 ## Part II: Predicting Hall of Fame Careers
 
-In this project, you'll see how to use classification models to predict which players make it into the MLB Hall of Fame.
+In this project, you'll see how to use classification models to predict which players will be voted into the MLB Hall of Fame.  The following scikit-learn models are featured in this project:
+
+- Logistice Regression
+- Random Forest
 
 ### Results
 
-Work in Progress
+The Random Forest model predicted 50 of 61 (82%) Hall of Fame careers with only 2 false positives out of 6400 total players.
