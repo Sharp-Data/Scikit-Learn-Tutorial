@@ -28,6 +28,8 @@ In this project, you'll see how to use classification models to predict which pl
 - Logistic Regression
 - Random Forest
 
+##### Scheduled Publish Date: June 20th, 2017
+
 ### Results
 
 The Random Forest model predicted 50 of 61 (82%) Hall of Fame careers with only 2 false positives out of 6,239 total players.
