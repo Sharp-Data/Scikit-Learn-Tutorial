@@ -30,4 +30,4 @@ In this project, you'll see how to use classification models to predict which pl
 
 ### Results
 
-The Random Forest model predicted 50 of 61 (82%) Hall of Fame careers with only 2 false positives out of 6400 total players.
+The Random Forest model predicted 50 of 61 (82%) Hall of Fame careers with only 2 false positives out of 6,239 total players.
