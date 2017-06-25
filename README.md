@@ -14,7 +14,7 @@ In this project, you’ll test out several machine learning models from sklearn 
 - Linear Regression
 - Ridge Regression
 
-##### Link: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1
+##### Link to Post: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1
 
 ### Results
 
@@ -28,7 +28,7 @@ In this project, you'll see how to use classification models to predict which pl
 - Logistic Regression
 - Random Forest
 
-##### Link: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2
+##### Link to Post: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2
 
 ### Results
 
