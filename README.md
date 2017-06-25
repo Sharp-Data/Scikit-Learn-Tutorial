@@ -21,14 +21,14 @@ In this project, you’ll test out several machine learning models from sklearn 
 The Ridge Regression model predicted team wins with an absolute mean error of 2.673 wins per season
 
 
-## [Part II: Predicting Hall of Fame Careers](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2#gs.RMEf=5E)
+## [Part II: Predicting Hall of Fame Careers](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2)
 
 In this project, you'll see how to use classification models to predict which players will be voted into the MLB Hall of Fame.  The following scikit-learn models are featured in this project:
 
 - Logistic Regression
 - Random Forest
 
-##### Link: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2#gs.RMEf=5E
+##### Link: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2
 
 ### Results
 
